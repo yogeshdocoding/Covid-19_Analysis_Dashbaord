@@ -1,2 +1,2 @@
 # Covid-19_Analysis_Dashbaord 
-By using --- POWERBI
+By using --- POWER BI
